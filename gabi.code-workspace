@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.pythonPath": ".venv/bin/python",
+    "azureFunctions.showCoreToolsWarning": false,
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.projectLanguage": "Python"
+  }
+}
